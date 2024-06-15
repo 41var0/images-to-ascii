@@ -10,16 +10,16 @@ Examples [here](examples/):
 <img src="https://github.com/41var0/images-to-ascii/blob/main/examples/images/example-1.png" alt="First image example" width=" 40%" align="left"/></br>
 <img src="https://github.com/41var0/images-to-ascii/blob/main/examples/images/example-1ASCII.png" alt="First image example" width=" 40%" align="right"/></br>
 
-</br></br></br></br>
+</br></br></br>
 <hr>
-`- Example 2 -`</br>
+</br>`- Example 2 -`</br>
 <b>This into this</b></br>
 <img src="https://github.com/41var0/images-to-ascii/blob/main/examples/images/example-2.jpg" alt="First image example" width=" 40%" align="left"/></br>
 <img src="https://github.com/41var0/images-to-ascii/blob/main/examples/images/example-2ASCII.png" alt="First image example" width=" 40%" align="right"/></br>
 
-</br></br></br></br>
+</br></br></br>
 <hr>
-`- Example 3 -`</br>
+</br>`- Example 3 -`</br>
 <b>This into this</b></br>
 <img src="https://github.com/41var0/images-to-ascii/blob/main/examples/images/example-3.jpg" alt="First image example" width=" 40%" align="left"/></br>
 <img src="https://github.com/41var0/images-to-ascii/blob/main/examples/images/example-3ASCII.png" alt="First image example" width=" 40%" align="right"/></br>
