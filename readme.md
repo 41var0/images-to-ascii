@@ -6,25 +6,26 @@ Examples [here](examples/):
 
 
 `- Example 1 -`
+
 This
-![First image example](examples/images/example-1.png){ width=50% }
+![First image example](examples/images/example-1.png ){: width=50% }
 
 Into this 
 
-![First image example](examples/images/example-1ASCII.png){ width=50% }
+![First image example](examples/images/example-1ASCII.png){: width=50% }
 
 `- Example 2 -`
 This
-![First image example](examples/images/example-2.jpg){ width=50% }
+![First image example](examples/images/example-2.jpg){: width=50% }
 
 Into this 
 
-![First image example](examples/images/example-2ASCII.png){ width=50% }
+![First image example](examples/images/example-2ASCII.png){: width=50% }
 
 `- Example 3 -`
 This
-![First image example](examples/images/example-3.jpg){ width=50% }
+![First image example](examples/images/example-3.jpg){: width=50% }
 
 Into this 
 
-![First image example](examples/images/example-3ASCII.png){ width=50% }
+![First image example](examples/images/example-3ASCII.png){: width=50% }
