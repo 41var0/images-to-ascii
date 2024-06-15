@@ -7,25 +7,19 @@ Examples [here](examples/):
 
 `- Example 1 -`
 
-This
-![First image example](examples/images/example-1.png ){: width=50% }
-
-Into this 
-
-![First image example](examples/images/example-1ASCII.png){: width=50% }
+This </br>
+<img src="examples/images/example-1.png" alt"First image example" style="max-width: 50%;"></br>
+Into this </br>
+<img src="examples/images/example-1ASCII.png" alt"First image example" style="max-width: 50%;"></br>
 
 `- Example 2 -`
-This
-![First image example](examples/images/example-2.jpg){: width=50% }
-
-Into this 
-
-![First image example](examples/images/example-2ASCII.png){: width=50% }
+This </br>
+<img src="examples/images/example-2.jpg" alt"First image example" style="max-width: 50%;"></br>
+Into this </br>
+<img src="examples/images/example-2ASCII.png" alt"First image example" style="max-width: 50%;"></br>
 
 `- Example 3 -`
-This
-![First image example](examples/images/example-3.jpg){: width=50% }
-
-Into this 
-
-![First image example](examples/images/example-3ASCII.png){: width=50% }
+This </br>
+<img src="examples/images/example-3.jpg" alt"First image example" style="max-width: 50%;"></br>
+Into this </br>
+<img src="examples/images/example-3ASCII.png" alt"First image example" style="max-width: 50%;"></br>
