@@ -5,21 +5,20 @@ You can see some examples in the `examples-ascii` folder.
 Examples [here](examples/):
 
 
-`- Example 1 -`
-
+`- Example 1 -`</br>
 This </br>
-<img src="examples/images/example-1.png" alt"First image example" style="max-width: 50%;"></br>
+<img src="examples/images/example-1.png" alt"First image example" style="max-width: 50%;"/></br>
 Into this </br>
-<img src="examples/images/example-1ASCII.png" alt"First image example" style="max-width: 50%;"></br>
+<img src="examples/images/example-1ASCII.png" alt"First image example" style="max-width: 50%;"/></br>
 
-`- Example 2 -`
+`- Example 2 -`</br>
 This </br>
-<img src="examples/images/example-2.jpg" alt"First image example" style="max-width: 50%;"></br>
+<img src="examples/images/example-2.jpg" alt"First image example" style="max-width: 50%;"/></br>
 Into this </br>
-<img src="examples/images/example-2ASCII.png" alt"First image example" style="max-width: 50%;"></br>
+<img src="examples/images/example-2ASCII.png" alt"First image example" style="max-width: 50%;"/></br>
 
-`- Example 3 -`
+`- Example 3 -`</br>
 This </br>
-<img src="examples/images/example-3.jpg" alt"First image example" style="max-width: 50%;"></br>
+<img src="examples/images/example-3.jpg" alt"First image example" style="max-width: 50%;"/></br>
 Into this </br>
-<img src="examples/images/example-3ASCII.png" alt"First image example" style="max-width: 50%;"></br>
+<img src="examples/images/example-3ASCII.png" alt"First image example" style="max-width: 50%;"/></br>
